@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Vesting_final.sol": "Context"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Vesting_final.sol": {
+			"keccak256": "0xbca18f4f8fb4e2b49ac18e40c27bfb988cb42e2acb5e758b68943310d48883f8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://bf45ca27b4781195634e508dc4d29a2b476c16912a87461ea604dbf983082eb8",
+				"dweb:/ipfs/Qmf6bAsFAt6opsaEz3Fe1EFDtLavuGBxfCeCgwRHjjqDCC"
+			]
+		}
+	},
+	"version": 1
+}
